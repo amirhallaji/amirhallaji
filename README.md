@@ -5,7 +5,7 @@
 
 [![open](icons/amirhallaji.svg)](https://amirhallaji.com)
 
-I am a Junior student studying computer engineering at Shahid Behehstin University.
+I am a Junior student studying computer engineering at Shahid Behehsti University.
 
 ## Languages & Technologies
 
