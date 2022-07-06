@@ -1,26 +1,32 @@
+# amirhallaji🧢
 
-## Amir Hallaji Bidgoli🧢
+## About me
 
-### Introduction
+<h3>
 
-Here is my personal website.
+My name is **Amir Hallaji**.
+I am studying computer engineering at Shahid Beheshti university. Currently, I am working as a software engineer at Snapp.
 
-[![open](icons/amirhallaji.svg)](https://amirhallaji.com)
+This is my personal website.
+</h3>
 
-Currently, I am a B.Sc student studying Computer Engineering major at Shahid Beheshti University. I love to learn and experience new things in my major.
+[![open](https://img.shields.io/badge/-amirhallaji.com-green?style=for-the-badge&logo=website)](https://amirhallaji.com)
 
-### Tools & Technlogies
-
-[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)  [![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)  [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)  [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+## Tools & Technlogies
+[![](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=go)](https://go.dev/)
+  [![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)  [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhallaji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-### Stats
+## Stats
+<p align='center'>
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhallaji&theme=blue-green&show_icons=true)
 
+</p>
 
-### Contact Me
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.hallaji.b@gmail.com)
+## Contact Me
+
+[![](https://img.shields.io/badge/a.hallaji.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.hallaji.b@gmail.com)
 
