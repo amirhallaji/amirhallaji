@@ -18,15 +18,16 @@ This is my personal website.
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhallaji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-## Stats
-<p align='center'>
-
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhallaji&theme=blue-green&show_icons=true)
-
-</p>
-
 
 ## Contact Me
 
 [![](https://img.shields.io/badge/a.hallaji.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.hallaji.b@gmail.com)
 
+
+## Stats
+
+<p align='center'>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhallaji&theme=blue-green&show_icons=true" />
+
+</p>
