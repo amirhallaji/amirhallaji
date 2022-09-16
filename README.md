@@ -5,7 +5,9 @@
 <h3>
 
 My name is **Amir Hallaji**.
-I am studying computer engineering at Shahid Beheshti university. Currently, I am working as a software engineer at Snapp.
+I got my bachelor's degree in computer engineering from Shahid Beheshti university and now I'm studying master's in Artificial Intelligence at SBU.
+Currently, I am working as a software engineer at Snapp.
+
 
 This is my personal website.
 </h3>
