@@ -6,7 +6,7 @@
 
 My name is **Amir Hallaji**.
 I got my bachelor's degree in computer engineering from Shahid Beheshti university and now I'm studying master's in Artificial Intelligence at SBU.
-Currently, I am working as a software engineer at Snapp.
+Currently, I am working as a software engineer(backend developer) at Snapp.
 
 
 This is my personal website.
