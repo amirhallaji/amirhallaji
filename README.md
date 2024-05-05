@@ -23,7 +23,7 @@ This is my personal website.
 
 ## Contact Me
 
-[![](https://img.shields.io/badge/a.hallaji.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.hallaji.b@gmail.com)
+[![](https://img.shields.io/badge/me@amirhallaji.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@amirhallaji.com)
 
 
 ## Stats
