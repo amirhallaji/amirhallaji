@@ -1,9 +1,6 @@
 ## About me
-
-
   
 I am [Amir Hallaji](https://amirhallaji.com).
-
 
 I earned my Bachelor's degree in Computer Engineering from Shahid Beheshti University, where I am currently pursuing a Master's degree in Artificial Intelligence. My studies focus on deep learning and natural language processing.
 
@@ -14,11 +11,13 @@ Outside of work, I love to work on open-source projects and continuously learnin
 
 ## Tools & Technlogies
 
-I work with this tools and technologies
+I work with these tools and technologies.
 
 [![](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=go)](https://go.dev/)
 ![](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
+
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
