@@ -34,6 +34,6 @@ I work with these tools and technologies.
 
 [![](https://img.shields.io/badge/me@amirhallaji.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@amirhallaji.com)
 
-[![open](https://img.shields.io/badge/-amirhallaji.com-green?style=for-the-badge&logo=website)](https://amirhallaji.com)
+<!-- [![open](https://img.shields.io/badge/-amirhallaji.com-green?style=for-the-badge&logo=website)](https://amirhallaji.com) -->
 
 
