@@ -4,7 +4,7 @@ I am [Amir Hallaji](https://amirhallaji.com).
 
 I earned my Bachelor's degree in Computer Engineering from Shahid Beheshti University, where I am currently pursuing a Master's degree in Artificial Intelligence. My studies focus on deep learning, bioinformatics, and natural language processing.
 
-I work as a Backend Developer at Snapp, focusing on developing scalable software solutions. My role involves designing robust systems, optimizing code, and integrating APIs for improved functionality.
+I work as a Backend Developer at Snapp, focusing on developing scalable software solutions. My role involves designing robust systems, optimizing code, and integrating APIs for the Pricing team.
 
 Outside of work, I love to work on open-source projects and continuously learn about new technologies to enhance my skills.
 
