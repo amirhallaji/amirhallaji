@@ -1,6 +1,6 @@
 ## About me
   
-I am [Amir Hallaji](https://amirhallaji.com).
+I'm Amir.
 
 I earned my Bachelor's degree in Computer Engineering from Shahid Beheshti University, where I am currently pursuing a Master's degree in Artificial Intelligence. My studies focus on deep learning, bioinformatics, and natural language processing.
 
