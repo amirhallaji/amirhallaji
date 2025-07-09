@@ -2,7 +2,7 @@
   
 I'm Amir.
 
-I earned my Bachelor's degree in Computer Engineering from Shahid Beheshti University, where I am currently pursuing a Master's degree in Artificial Intelligence. My studies focus on deep learning, bioinformatics, and natural language processing.
+I earned my Bachelor’s degree in Computer Engineering from Shahid Beheshti University, where I also completed a Master’s degree in Artificial Intelligence. My studies focused on deep learning, bioinformatics, and natural language processing.
 
 I work as a Backend Developer at Snapp, focusing on developing scalable software solutions. My role involves designing robust systems, optimizing code, and integrating APIs for the Pricing team.
 
