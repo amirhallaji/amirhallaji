@@ -28,6 +28,7 @@ I work with these tools and technologies.
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/mlflow-9fc5e8?style=for-the-badge&logo=mlflow&logoColor=blue)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhallaji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
